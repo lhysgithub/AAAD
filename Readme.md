@@ -8,8 +8,8 @@ Source code for the paper "AAAD: Asynchronous Relationship-aware Metric Anomaly 
 
 ### The overview of AAAD
 
-![](.\png\aaad_ov.png "")
+![](https://github.com/lhysgithub/AAAD/blob/main/png/aaad_ov.png "")
 
 ### Main Result
 
-![](.\png\aaad_res.png "")
+![](https://github.com/lhysgithub/AAAD/blob/main/png/aaad_res.png "")
